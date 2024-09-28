@@ -1,0 +1,87 @@
+.Header{
+    font-family:cursive;
+    text-align: center;
+    background-color: darkmagenta;
+    border-style:dotted;
+    border-color: white;
+    color: white;
+
+}
+.body{
+    background-color:lavender;
+    font-family:  cursive;
+    font-style: oblique;
+    border-style: dashed;
+    border-color: darkorchid;
+    text-align: center;
+}
+.change{
+    background-color: coral;
+}
+.links{
+   border-style: double;
+   font-family:Georgia;
+   color: rgb(151, 163, 244);
+}
+.list{
+    font-size: medium;
+    font-variant: normal;
+    font-family: Gerogia;
+    color: rgb(195, 122, 247);
+    text-align: center;
+}
+#banner{
+    width:600px;
+    height: 70px;
+    background-color: rgb(238, 181, 223);
+    margin: 50px;  
+}
+.pare{
+    color:blueviolet;
+    font-size: medium;
+    background-color: aliceblue;
+    width: fit-content;
+
+}
+.va{
+    font-family: cursive;
+    background-color: lavender;
+    border-style:dotted;
+    border-color: cornflowerblue;
+    text-align: center;
+}
+#places{
+    font-size: medium;
+    font-variant: inherit;
+    font-family: Georgia;
+    color: lavenderblush;
+    background-color: mediumslateblue;
+}
+.image{
+    width:190px ;
+    height: 130px;;
+}
+.home{
+    background-color: rgb(97, 138, 231);
+    color: black;
+}
+#num1{
+    background-color: rgb(238, 181, 223);
+    text-align: center;
+}
+#num2{
+    background-color: rgb(151, 163, 244);
+    text-align: center;
+}
+#num3{
+    background-color: rgb(97, 138, 231);
+    text-align: center;
+}
+#num4{
+    background-color: rgb(203, 94, 249);
+}
+.tabel{
+    border-color: indianred;
+    text-align: center;
+  
+}
